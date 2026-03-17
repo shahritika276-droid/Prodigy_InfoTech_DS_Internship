@@ -12,3 +12,7 @@ Visualizations
 2. Bar Chart: To display the count of categorical variables like Gender or Category.
 
 "Performed Exploratory Data Analysis (EDA) on customer shopping behavior to visualize age and gender distributions using Seaborn and Matplotlib."
+
+"Task 02
+
+Performed data cleaning and EDA on the Black Friday Sales dataset to explore customer purchasing patterns."
