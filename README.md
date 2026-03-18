@@ -15,4 +15,8 @@ Visualizations
 
 "Task 02
 
-Performed data cleaning and EDA on the Black Friday Sales dataset to explore customer purchasing patterns."
+Performed data cleaning and EDA on the Black Friday Sales dataset to explore customer purchasing patterns.
+
+"Task 03
+
+Built a Decision Tree Classifier to predict concrete strength categories based on chemical composition.
