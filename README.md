@@ -14,9 +14,11 @@ Visualizations
 "Performed Exploratory Data Analysis (EDA) on customer shopping behavior to visualize age and gender distributions using Seaborn and Matplotlib."
 
 "Task 02
-
 Performed data cleaning and EDA on the Black Friday Sales dataset to explore customer purchasing patterns.
 
 "Task 03
-
 Built a Decision Tree Classifier to predict concrete strength categories based on chemical composition.
+
+#Task 4: Sentiment Analysis
+Analyzed social media data to visualize public attitudes toward major brands.
+Visualizations: Created Side-by-Side Word Clouds for Positive and Negative sentiments to identify brand pain points and strengths.
